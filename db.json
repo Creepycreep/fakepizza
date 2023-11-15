@@ -4,7 +4,10 @@
             "id": 0,
             "name": "Margherita",
             "description": "",
-            "ingredients": ["tomato sauce", "mozzarella"],
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella"
+            ],
             "spicy": false,
             "vegetarian": true,
             "price": 17.0,
@@ -14,7 +17,11 @@
             "id": 1,
             "name": "Pepperoni",
             "description": "",
-            "ingredients": ["tomato sauce", "mozzarella", "double pepperoni"],
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella",
+                "double pepperoni"
+            ],
             "spicy": false,
             "vegetarian": false,
             "price": 20.0,
@@ -318,7 +325,12 @@
             "id": 0,
             "name": "Bolognese",
             "description": "",
-            "ingredients": ["penne", "ragu sauce", "beef cubes", "mozzarella"],
+            "ingredients": [
+                "penne",
+                "ragu sauce",
+                "beef cubes",
+                "mozzarella"
+            ],
             "spicy": false,
             "vegetarian": false,
             "price": 28.0,
@@ -517,16 +529,6 @@
             "image": "https://i.imgur.com/k5Dg7hZ.png"
         },
         {
-            "id": 1,
-            "name": "Pizza",
-            "description": "",
-            "ingredients": [],
-            "spicy": false,
-            "vegetarian": false,
-            "price": 4,
-            "image": "https://i.imgur.com/k5Dg7hZ.png"
-        },
-        {
             "id": 2,
             "name": "Salsa",
             "description": "",
@@ -542,16 +544,6 @@
             "description": "",
             "ingredients": [],
             "spicy": false,
-            "vegetarian": false,
-            "price": 4,
-            "image": "https://i.imgur.com/k5Dg7hZ.png"
-        },
-        {
-            "id": 4,
-            "name": "Spicy TABASCO",
-            "description": "",
-            "ingredients": [],
-            "spicy": true,
             "vegetarian": false,
             "price": 4,
             "image": "https://i.imgur.com/k5Dg7hZ.png"
